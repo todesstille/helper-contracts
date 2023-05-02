@@ -6,5 +6,7 @@ cd ..
 #cp README.md contracts/
 # mkdir contracts/build contracts/build/contracts
 # cp -r build/contracts/*.json contracts/build/contracts
-mv contracts/contracts/ contracts/
-mv contracts/artifacts/contracts/ builds/
+cp -r contracts/contracts/* contracts
+mkdir builds/
+cp -r contracts/artifacts/contracts/* builds
+rm -rf contracts/contracts
