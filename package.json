@@ -4,7 +4,7 @@
   "files": [
     "/contracts/**/*.sol",
     "/scripts/*",
-    "/artifacts/contracts/*.json"
+    "/artifacts/contracts/**/*.json"
   ],
   "repository": {
     "type": "git",
