@@ -11,7 +11,7 @@
   },
   "main": "index.js",
   "scripts": {
-    "prepublish": "bash ./scripts/prepare-contracts-package.sh",
+    "postinstall": "bash ./scripts/prepare-contracts-package.sh",
     "patch": "npm version patch --force && npm publish",
     "minor": "npm version minor --force && npm publish",
     "major": "npm version major --force && npm publish"
