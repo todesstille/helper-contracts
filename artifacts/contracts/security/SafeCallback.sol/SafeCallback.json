@@ -1,0 +1,16 @@
+{
+  "_format": "hh-sol-artifact-1",
+  "contractName": "SafeCallback",
+  "sourceName": "contracts/security/SafeCallback.sol",
+  "abi": [
+    {
+      "inputs": [],
+      "stateMutability": "nonpayable",
+      "type": "constructor"
+    }
+  ],
+  "bytecode": "0x6080604052348015600f57600080fd5b5073ffffffffffffffffffffffffffffffffffffffff6000806101000a81548173ffffffffffffffffffffffffffffffffffffffff021916908373ffffffffffffffffffffffffffffffffffffffff160217905550603f8060716000396000f3fe6080604052600080fdfea2646970667358221220f409047f92cc3d54f0581a1dd2271b43f4df72995433d3de2c4132dda9809d1a64736f6c63430008120033",
+  "deployedBytecode": "0x6080604052600080fdfea2646970667358221220f409047f92cc3d54f0581a1dd2271b43f4df72995433d3de2c4132dda9809d1a64736f6c63430008120033",
+  "linkReferences": {},
+  "deployedLinkReferences": {}
+}

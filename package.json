@@ -2,7 +2,8 @@
   "name": "@todesstille/contracts",
   "version": "0.1.0",
   "files": [
-    "/contracts/**/*.sol"
+    "/contracts/**/*.sol",
+    "/artifacts/contracts/*.json"
   ],
   "repository": {
     "type": "git",
