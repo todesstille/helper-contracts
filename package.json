@@ -10,6 +10,11 @@
     "url": "https://github.com/todesstille/helper-contracts.git"
   },
   "main": "index.js",
+  "scripts": {
+    "patch": "npm version patch --force && npm publish",
+    "minor": "npm version minor --force && npm publish",
+    "major": "npm version major --force && npm publish"
+  },
   "license": "MIT",
   "dependencies": {
     "hardhat": "^2.14.0"
