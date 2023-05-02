@@ -3,6 +3,7 @@
   "version": "0.1.4",
   "files": [
     "/contracts/**/*.sol",
+    "/scripts/*",
     "/artifacts/contracts/*.json"
   ],
   "repository": {
