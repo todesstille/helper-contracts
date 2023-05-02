@@ -10,3 +10,5 @@ cp -r contracts/contracts/* contracts
 mkdir builds/
 cp -r contracts/artifacts/contracts/** builds
 rm -rf contracts/contracts
+rm -rf contracts/artifacts
+rm -rf contracts/scripts
